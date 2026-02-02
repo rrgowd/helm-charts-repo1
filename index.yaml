@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  testing:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-02-02T13:33:22.245669687+05:30"
+    description: A Helm chart for Kubernetes
+    digest: cb1261cd910f134401c635a206746530ac409581c89c6462b7ffd117de377213
+    name: testing
+    type: application
+    urls:
+    - https://rrgowd.github.io/helm-charts-repo/testing-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-02-02T13:33:22.24495807+05:30"
